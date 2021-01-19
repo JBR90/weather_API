@@ -1,0 +1,8 @@
+.weather-card {
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.card {
+  background-color: white;
+}
